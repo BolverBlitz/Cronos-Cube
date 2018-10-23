@@ -7,6 +7,8 @@ Liste der Dateien:
 - Matterial Liste
 - Stromlaufpläne
 
+Gehäuse wird 3D Gedruckt
+
 
 Arduino Master (ESP2866):
 Libs:
@@ -24,7 +26,7 @@ Libs:
      - Nachtlicht 
   
   - Temperaturüberwachung
-     - Akkus und Ladeelektronik
+     - Akkus und Ladeelektronik (Akku wird kleiner, nur Nachtlicht.)
      - Singboard Computer
      
   - Kühlungslüfter Steuerung
