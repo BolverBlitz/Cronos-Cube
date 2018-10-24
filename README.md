@@ -2,7 +2,7 @@
 Hier landen alle Daten um eine Art Cronos Cube zu bauen. 
 
 Liste der Dateien:
-- Arduino(ESP2866) für allgemeine Steuerung
+- Arduino(ESP8266) für allgemeine Steuerung
 - Vektor dateien für das Gehäuse
 - Matterial Liste
 - Stromlaufpläne
@@ -10,7 +10,7 @@ Liste der Dateien:
 Gehäuse wird 3D Gedruckt
 
 
-Arduino Master (ESP2866):
+Arduino Master (ESP8266):
 Libs:
 - CTBot
 - Arduino Json
