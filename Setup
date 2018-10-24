@@ -12,7 +12,7 @@ PC Vorbereitung
 Programme (Optional) RGB Steuerung
   - Aktuelle Version von https://github.com/CalcProgrammer1/KeyboardVisualizerVCUI_Release herunterladen
   - Programm starten und Settings speichern
-  - Die Settings Datei öffnen und "ledstrip=(COM Port des ESPP2866), 115200, (LED Strip länge)"
+  - Die Settings Datei öffnen und "ledstrip=(COM Port des ESP2866), 115200, (LED Strip länge)"
   - Die Settings Datei öffnen und "ledstrip=udp:(IP des Clients),(Port),(LED)"
   - Länge MUSS mit dem Scetch übereinstimmen für decoding
   - Eine verknüpfung zu dem Programm anlegen unter "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"
